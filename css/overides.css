@@ -1,0 +1,29 @@
+.navbar-default {
+	background-color: aqua;
+}
+
+.navbar-default .navbar-nav>.active>a {
+	background-color: lime;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: yellow;
+}
+
+section {
+	padding: 20px;
+}
+
+.deals {
+	background-color: yellow;
+}
+
+
+
+.used-cars {
+	background-color: magenta;
+}
+
+.new-cars {
+	background-color: orange;
+}
